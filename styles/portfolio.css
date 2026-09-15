@@ -156,3 +156,37 @@ main {
     font-weight: 400;
     font-size: 16px;
 }
+/* resume styles */
+.resume-heading{
+    font-weight: bold;
+    font-size: 35px;
+}
+.resume-container{
+    display: flex;
+    gap: 71px;
+}
+.resume-colum-title{
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+.resume-title{
+    font-weight: bold;
+    font-size: 25px;
+}
+.resume-sub-title{
+    font-weight: 600;
+    font-size: 20px;
+}
+.resume-description{
+    font-weight: 400px;
+    font-size: 16px;
+}
+.resume-btn{
+    text-align: center;
+    margin-top: 50px;
+}
+hr{
+    margin: 30px 0 30px 0;
+}
